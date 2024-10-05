@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
-<!--
-**leobesilva/leobesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Leonardo Bezerra da Silva 👋
 
-Here are some ideas to get you started:
+### Sobre mim:
+- 🔭 Atualmente trabalhando com Marketing Agro e Ciencia de Dados.
+- 🌱 Aprendendo Ciencia de dados, Python e SQL.
+- 👯 Buscando colaborar em Analises, Construção de Algoritimos.
+- 💬 Pergunte-me sobre Ciencia de dados aplicada a Agronomia.
+- 📫 Como me contatar: https://www.linkedin.com/in/leonardo-silva-567b7a167/.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e Ferramentas:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+![Gif de Saudação](https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif)
